@@ -8,7 +8,7 @@ Understanding your audience’s expertise level helps you tailor the complexity 
 Know your audience: Understand who you're talking to and what they know.
 Simplify or elaborate: Use simple words for beginners and more detailed terms for experts.
 Highlight what's important: Focus on what matters most to the specific audience.
-Use examples: Share everyday examples for non-experts to make things easier to understand.
+Use examples: Share everyday examples for non-experts to make things easier to understand
 Add visuals: Include pictures, charts, or diagrams to explain complex ideas.
 Provide options: Offer both basic summaries and detailed explanations so everyone can follow along.
 Ask for feedback: Check if the audience understands and adjust as needed.
